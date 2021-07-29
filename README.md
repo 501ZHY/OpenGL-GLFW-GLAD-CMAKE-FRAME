@@ -1,5 +1,6 @@
 # *Usage*
-This is a frame used to fastly build an OpenGL project without waste time on setting environment.
+This is a frame used to fastly build an OpenGL project without waste time on setting environment.  
+This is a very clean project with only simple cube drawing and can run at Linux, MacOS and Windows.
 
 ### *Each folder contains*  
 -*deoendencies*: contains GLFW used for cmake.  
