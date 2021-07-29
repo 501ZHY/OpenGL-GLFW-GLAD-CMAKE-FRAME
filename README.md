@@ -19,6 +19,8 @@ This is a very clean project with only simple cube drawing and can run at Linux,
 
 ### **How to run**
 ```
+git clone https://github.com/501ZHY/OpenGL-GLFW-GLAD-CMAKE-FRAME.git
+cd OpenGL-GLFW-GLAD-CMAKE-FRAME
 cd build  
 cmake ..  
 make  
