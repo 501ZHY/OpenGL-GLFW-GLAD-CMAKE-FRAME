@@ -1,2 +1,4 @@
-# OpenGL-GLFW-GLAD-CMAKE-FRAME
-An OpenGL frame contain GLFW,GLAD,ASSIMP,GLM and stbi. This is use for building a OpenGL project fastly without set up enviroment.
+##Usage
+This is a frame used to fastly build an OpenGL project without waste time on setting environment.
+
+
